@@ -1,0 +1,35 @@
+body {
+    font-family: montserrat;
+    color: white;
+    background-color: #09080e;
+}
+
+table {
+    border: 52px;
+}
+
+.names-index caption {
+    margin-top: -10px;
+}
+
+.names-index table {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 370px;
+}
+
+.Next-icon button {
+    font-family: montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(56, 10, 131);
+    margin-top: 90px;
+    margin-left: 520px;
+    padding: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-color: transparent;
+    border-radius: 20px;
+    width: 240px;
+}

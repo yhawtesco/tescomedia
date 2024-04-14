@@ -1,0 +1,107 @@
+body {
+    font-family: montserrat;
+    color: white;
+    background-color: #09080e;
+    justify-content: space-between;
+}
+
+.Java {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.nav {
+    position: fixed;
+    background-color: rgb(20, 6, 43);
+    margin: 20px;
+    margin-top: -105px;
+    width: 1200px;
+}
+
+#previous {
+    margin-top: 18px;
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    width: 29px;
+}
+
+#home {
+    margin-left: 999px;
+    width: 34px;
+    height: 30px;
+}
+
+.sidebar h2 {
+    color: rgb(255, 255, 255);
+    margin-top: -3px;
+    margin-left: 50px;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    font-family: montserrat medium;
+    color: rgb(255, 255, 255);
+    background-color: none;
+}
+
+.sidebar a {
+    display: block;
+    font-size: 18px;
+    color: rgb(116, 116, 114);
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: -13px;
+    border-radius: 10px;
+}
+
+.sidebar a:hover {
+    color: white;
+}
+
+.sidebar img {
+    margin-top: -22px;
+    margin-left: 8px;
+    border-radius: 5px;
+    width: 30px;
+    height: 25px;
+}
+
+.Topic {
+    font-weight: bold;
+    margin-left: 260px;
+}
+
+.text {
+    background-color: #252236;
+    margin: 120px;
+    margin-top: 100px;
+    margin-left: 290px;
+    padding: 20PX;
+    padding-right: 100px;
+    padding-left: 26px;
+    border-radius: 20px;
+}
+
+.text p {
+    width: 790px;
+}
+
+.text a {
+    color: yellow;
+}
+
+#new {
+    font-family: hack;
+}
+
+.Basic li {
+    color: rgb(22, 233, 75);
+    padding: 2px;
+}
+
+.code p {
+    font-family: hack;
+}
